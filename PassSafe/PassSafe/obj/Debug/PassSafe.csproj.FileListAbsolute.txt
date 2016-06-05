@@ -1,0 +1,14 @@
+c:\users\piotras\documents\visual studio 2015\Projects\PassSafe\PassSafe\bin\Debug\PassSafe.exe.config
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\PassSafe.csprojResolveAssemblyReference.cache
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\MainWindow.g.cs
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\App.g.cs
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\PassSafe_MarkupCompile.cache
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\PassSafe_MarkupCompile.lref
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\bin\Debug\PassSafe.exe
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\bin\Debug\PassSafe.pdb
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\MainWindow.baml
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\PassSafe.g.resources
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\PassSafe.Properties.Resources.resources
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\PassSafe.csproj.GenerateResource.Cache
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\PassSafe.exe
+C:\Users\Piotras\Documents\Visual Studio 2015\Projects\PassSafe\PassSafe\obj\Debug\PassSafe.pdb
