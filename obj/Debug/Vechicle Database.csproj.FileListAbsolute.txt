@@ -1,0 +1,25 @@
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\bin\Debug\Vechicle Database.exe.config
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\bin\Debug\Vechicle Database.exe
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\bin\Debug\Vechicle Database.pdb
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\MainWindow.g.cs
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\App.g.cs
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\Vechicle Database_MarkupCompile.cache
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\Vechicle Database_MarkupCompile.lref
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\MainWindow.baml
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\Vechicle Database.g.resources
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\Vechicle_Database.Properties.Resources.resources
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\Vechicle Database.csproj.GenerateResource.Cache
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\Vechicle Database.exe
+c:\users\pioka\onedrive\dokumenty\visual studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\Vechicle Database.pdb
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\CarsAdd.g.cs
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\CarsPage.g.cs
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\MotorcyclesPage.g.cs
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\CarsAdd.baml
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\CarsPage.baml
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\MotorcyclesPage.baml
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\TrucksPage.g.cs
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\TrucksPage.baml
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\MotorcyclesAdd.g.cs
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\TrucksAdd.g.cs
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\MotorcyclesAdd.baml
+C:\Users\pioka\OneDrive\Dokumenty\Visual Studio 2015\Projects\Vechicle Database\Vechicle Database\obj\Debug\TrucksAdd.baml
